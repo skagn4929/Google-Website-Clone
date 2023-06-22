@@ -28,17 +28,22 @@ header {
   height: 100%;
   width: 100%;
   padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .navbar ul {
-  height: 100%;
   display: flex;
-  justify-content: flex-end;
   align-items: center;
   font-size: 14px;
 }
 
-.navbar ul li {
+.navbar ul.left-items li {
+  margin-right: 15px;
+}
+
+.navbar ul.right-items li {
   margin-left: 15px;
 }
 
