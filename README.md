@@ -317,10 +317,10 @@ footer {
 ```
 
 ---
-### 참조
-- https://www.google.co.kr/ - 이미지 참조
+### 참고
+- https://www.google.co.kr/ - 이미지 참고
 
-- https://fontawesome.com/ - 아이콘 참조
+- https://fontawesome.com/ - 아이콘 참고
 
 
 
