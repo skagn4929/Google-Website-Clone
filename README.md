@@ -1,5 +1,5 @@
 # Google-Website-Clone
-**HTML과 CSS를 사용하여 넷플릭스 웹사이트 클론을 만들었습니다.**
+**HTML과 CSS를 사용하여 구글 웹사이트 클론을 만들었습니다.**
 - https://skagn4929.github.io/Google-Website-Clone/
 
 ![구글](https://github.com/skagn4929/Google-Website-Clone/assets/134206709/45a71a41-041a-4216-a970-b61a9b010bcb)
